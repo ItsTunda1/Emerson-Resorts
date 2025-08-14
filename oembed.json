@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "title": "Emerson Resorts",
+  "author_name": "Henry Emerson",
+  "provider_name": "Emerson Resorts",
+  "html": "<iframe src='https://USERNAME.github.io/REPO/player.html' width='300' height='380'></iframe>"
+}
